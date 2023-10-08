@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+I:\[ ED2 ]\ED2_aula6_06092023_hash\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2713970814.index
+3794963623.index
